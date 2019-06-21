@@ -1,5 +1,5 @@
 ## Sean Yoo
-Email: sy435@cornell.edu  
+Email: sy435@cornell.edu   
 Phone: (347) 853-9053
 
 Hi, my name is Sean and I am currently an undergraduate student at Cornell University. I am pursuing a bachelors of science at the College of Engineering with a degree in Computer Science. My interests lie in data analysis and I plan on specializing my degree in data science. Outside the classroom, I am a member of the Association of Computer Science Undergraduates and play club soccer for Cornell Mundial FC.
