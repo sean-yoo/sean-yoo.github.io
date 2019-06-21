@@ -10,45 +10,19 @@ Technologies Used: React.js, JavaScript, HTML, CSS
 - Developed web application with face recognition utility.
 - Incorporated face detection API to scan images and desgined an attractive and user freindly front end web interface for API endpoint.
 
-
+### [Text to Speech](https://sean-yoo.github.io/text-to-speech/)
+Technologies Used: JavaScript, HTML, CSS
+- Developed web application for Chrome Browser used to listen to written texts aloud.
+- Designed ergonomic interface using HTML and CSS for aesthetics and useability.
+- Utilized voice synthesis built into Chrome using JavaScript for API retrieval.
 
 ## Experience
 
+### Columbia University [Manhattan, New York]
+Instructor
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/sean-yoo/sean-yoo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sean-yoo/sean-yoo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Elmhurst Hospital [Elmhurst, New York]
+Information Technology Intern
+- Created electronic repository for  files and transferred over 300 paper files into digital archive.
+- Utilized Microsoft Access to simplify administrative access for doctors and specialists.
+- Updated patient records in software used by hospital through Epic Systems.
